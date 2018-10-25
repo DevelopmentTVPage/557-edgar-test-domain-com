@@ -1,0 +1,16 @@
+{
+    "title": "New Test Edgar",
+    "baseURL": "https:\/\/edgar-test-domain.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "edgar-test-domain.com"
+    }
+}
